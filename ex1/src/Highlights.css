@@ -1,0 +1,23 @@
+.highlights{
+    font-size: 17px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    Background-Color: #4E96A4;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 955px;
+    text-align: left;
+}
+.spacer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 1000px;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.add{
+    Background-Color: #38BDDF;
+}

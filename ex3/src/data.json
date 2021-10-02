@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Acer 27' Nitro VG270UPbmiipx",
+      "rating": 4.5,
+      "price": 349.00,
+      "image": "item1.PNG"
+    },
+    {
+      "id": 2,
+      "name": "BenQ 24' ZOWIE XL2411P",
+      "rating": 4.5,
+      "price": 199.00,
+      "image": "item2.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 32' Odyssey G5",
+      "rating": 5,
+      "price": 299.00,
+      "image": "item3.PNG"
+    },
+    {
+      "id": 4,
+      "name": "Acer 27' Nitro XV272U KVbmiiprzx",
+      "rating": 0,
+      "price": 429.00,
+      "image": "item4.PNG"
+    },
+    {
+      "id": 5,
+      "name": "Gigabyte 34' G34WQC",
+      "rating": 5,
+      "price": 539.00,
+      "image": "item5.PNG"
+    },
+    {
+      "id": 6,
+      "name": "Asus 43' ROG Strix XG43UQ",
+      "rating": 0,
+      "price": 1599.00,
+      "image": "item6.PNG"
+    },
+    {
+      "id": 7,
+      "name": "Lenovo 34' G34w-10",
+      "rating": 4,
+      "price": 459.00,
+      "image": "item7.PNG"
+    },
+    {
+      "id": 8,
+      "name": "Asus 24' VG248QE",
+      "rating": 4.3,
+      "price": 219.00,
+      "image": "item8.PNG"
+    },
+    {
+      "id": 9,
+      "name": "Gigabyte 43' AORUS FV43U",
+      "rating": 5,
+      "price": 1099.00,
+      "image": "item9.PNG"
+    }
+  ]
+}
